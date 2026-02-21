@@ -32,6 +32,9 @@ A comprehensive data analysis project using Excel to explore the Mercedes-Benz c
 
 ## Screenshots / لقطات الشاشة
 ![Dashboard](Dashboard.png)
-![Analysis](analysis-1.png)
-![Analysis](analysis-2.png)
-![Analysis](analysis-3.png)
+
+![Analysis](Analysis-1.png)
+
+![Analysis](Analysis-2.png)
+
+![Analysis](Analysis-3.png)
